@@ -1,2 +1,2 @@
-# AdendAi
+# AgendAi
  software para venda de serviços
