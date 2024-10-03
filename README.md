@@ -6,6 +6,12 @@
 
  Projeto não visa ser uma aplicação comercial.
 
+ #### Previsão de conclusão 
+ Previsão para três messes, podendo extende ate 5 messes.
+
+    - Inicio: 01/10
+    - Fim: 01/01
+
 
 ## Mobile
  O ambiente mobile é um app que posibilida de pessoas possa busca e contrata serviçoes de proficionais valiados.
